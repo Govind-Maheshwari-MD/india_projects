@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message-document>
+<envelope-header>
+<interchange-control-header>
+<authorization-information-qualifier>00</authorization-information-qualifier>
+<authorization-information>          </authorization-information>
+<security-information-qualifier>00</security-information-qualifier>
+<security-information>          </security-information>
+<interchange-sender-id-qualifier>01</interchange-sender-id-qualifier>
+<interchange-sender-id>003867630</interchange-sender-id>
+<interchange-receiver-id-qualifier>14</interchange-receiver-id-qualifier>
+<interchange-receiver-id>001695568GP</interchange-receiver-id>
+<interchange-date>040310</interchange-date>
+<interchange-time>1625</interchange-time>
+<interchange-control-standards>U</interchange-control-standards>
+<interchange-control-version>00400</interchange-control-version>
+<interchange-control-number>000121976</interchange-control-number>
+<acknowledgement-requested>0</acknowledgement-requested>
+<usage-indicator description="(T)est|(P)roduction">P</usage-indicator>
+</interchange-control-header>
+<functional-group-header>
+<functional-identifier-code>IN</functional-identifier-code>
+<sender-id>003867630</sender-id>
+<receiver-id>001695568GP</receiver-id>
+<date>20040310</date>
+<time>1625</time>
+<group-control-number>131105</group-control-number>
+<responsible-agency-code>X</responsible-agency-code>
+<edi-version>004010</edi-version>
+</functional-group-header>
+</envelope-header>
+<message-body>
+<transaction>
+<ST>
+<ST01>810</ST01>
+<ST02>132105</ST02>
+</ST>
+<BIG>
+<BIG01>20040310</BIG01>
+<BIG02>V05434-2004</BIG02>
+<BIG03 />
+<BIG04>87 2163 9058</BIG04>
+</BIG>
+<header-entity-loop>
+<N1>
+<N101>ST</N101>
+<N102>TCN HX9HHW 2163 9058</N102>
+<N103 />
+<N104 />
+</N1>
+<N3>
+<N301>RDD 066 TP3, HXYAAA AAFES</N301>
+<N302>XE1 HONOLULU</N302>
+</N3>
+</header-entity-loop>
+<header-entity-loop>
+<N1>
+<N101>RE</N101>
+<N102>FOUNDERS FURN. / CREATIVE INTERIORS</N102>
+<N103>1</N103>
+<N104>0401444870000</N104>
+</N1>
+</header-entity-loop>
+<ITD>
+<ITD01>01</ITD01>
+<ITD02 />
+<ITD03 />
+<ITD04 />
+<ITD05 />
+<ITD06 />
+<ITD07>30</ITD07>
+<ITD12>NET 30 DAYS</ITD12>
+</ITD>
+<DTM>
+<DTM01>011</DTM01>
+<DTM02>20040310</DTM02>
+<DTM05 />
+<DTM06 />
+</DTM>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>105</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020779" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>7014293 DRESSER</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>54.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020922" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2033504 MIRROR</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>130</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020809" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>1942994 CHEST</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>65</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020823" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>7116874 HEADBRD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>64.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020830" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>1938919 NIGHTSTD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>105</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899021004" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2091411 DRESSER</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>54.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899021219" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>7116916 MIRROR</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>130</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899021035" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2142529 CHEST</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>65</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899021059" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>8215881 HEADBRD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>64.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899021066" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2091460 NIGHTSTD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>144.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020298" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>5715867 DRESSER</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>54.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020304" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2142552 MIRROR</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>120</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020311" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2092971 CHEST</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>74.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020427" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2091726 HEADBRD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>54.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899020328" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>6815765 NIGHTSTD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>139.95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019599" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>6315832 DRESSER</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>49.95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019605" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2093268 MIRROR</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>124.95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019780" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>3637634 CHEST</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>49.95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019643" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>8615293 PANEL HB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>65</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019674" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>5114293 SLGH HB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>65</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019681" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2093482 SLGH FB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>40</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019100" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2188290 SLGH RLS</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>59.95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899019728" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>9815465 NIGHTSTD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>115</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899029703" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2838837 DRESSER</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>54.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899029710" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2239176 MIRROR</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899029727" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>9124447 CHEST</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>70.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899030044" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2503191 METAL HB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>69</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899030051" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2188522 METAL FB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>64.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899029741" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>7816390 NIGHTSTD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>6</IT102>
+<IT103>EA</IT103>
+<IT104>115</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027242" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>6015697 DRESSER</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>6</IT102>
+<IT103>EA</IT103>
+<IT104>54.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027259" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>6717029 MIRROR</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>6</IT102>
+<IT103>EA</IT103>
+<IT104>95</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027266" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2188977 CHEST</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>6</IT102>
+
+<IT103>EA</IT103>
+<IT104>55</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027280" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>2188969 HEADBRD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>6</IT102>
+<IT103>EA</IT103>
+<IT104>64.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027303" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>7715709 NIGHTSTD</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>59.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027358" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>8115826 METAL HB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>39.99</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027365" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>6015705 METAL FB</PID05>
+</PID>
+</item>
+<item>
+<IT1>
+<IT101 />
+<IT102>5</IT102>
+<IT103>EA</IT103>
+<IT104>25</IT104>
+<IT105 />
+<product-id qualifier="UP" id="603899027570" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</IT1>
+<PID>
+<PID01>F</PID01>
+<PID02 />
+<PID05>8917726 RAILS</PID05>
+</PID>
+</item>
+<TDS>
+<TDS01>1470798</TDS01>
+</TDS>
+<CTT>
+<CTT01>37</CTT01>
+<CTT02 />
+<CTT03 />
+<CTT04 />
+<CTT05 />
+<CTT06 />
+<CTT07 />
+</CTT>
+<SE>
+<SE01>84</SE01>
+<SE02>132105</SE02>
+</SE>
+</transaction>
+</message-body>
+<envelope-footer>
+<functional-group-trailer>
+<number-of-transactions-sets>1</number-of-transactions-sets>
+<group-control-number>131105</group-control-number>
+</functional-group-trailer>
+<interchange-control-trailer>
+<number-of-groups>1</number-of-groups>
+<interchange-control-number>000121976</interchange-control-number>
+</interchange-control-trailer>
+</envelope-footer>
+</message-document>
+

@@ -1,0 +1,30 @@
+<Document>
+<Header>
+<line>UNB+UNOA:3+5013546122995:14+8711253900000:14+030429:1600+2+PASSWORD+ORDERS'</line>
+</Header>
+<Message>
+<Component DOCUMENT_TYPE="850" numberOfCharacters="836">
+<line>UNH+2+ORDERS:D:96A:UN:EAN008'</line>
+<line>BGM+220+4500004149+9'</line>
+<line>DTM+64:20030331:102'</line>
+<line>DTM+137:20030429:102'</line>
+<line>NAD+BY+5013546122995::9'</line>
+<line>NAD+SU+8711253900000::9'</line>
+<line>RFF+API:F0070'</line>
+<line>NAD+DP+5013669978004::9'</line>
+<line>CUX+2:GBP:9'</line>
+<line>LIN+1++8711253611661:EN'</line>
+<line>PIA+5+890373:IN'</line>
+<line>IMD+F++:::Beech Hi-Tec Kit Shelf'</line>
+<line>QTY+21:24'</line>
+<line>QTY+59:4'</line>
+<line>PRI+AAA:39.32'</line>
+<line>UNS+S'</line>
+<line>CNT+2:1'</line>
+<line>UNT+18+2'</line>
+</Component>
+</Message>
+<Footer>
+<line>UNZ+1+2'</line>
+</Footer>
+</Document>

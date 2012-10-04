@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message-document xmlns:java="http://xml.apache.org/xslt/java" xmlns:xmcStrings="xmc.xslt.extensions.StringExtension">
+	<envelope-header>
+		<interchange-control-header>
+			<authorization-information-qualifier>00</authorization-information-qualifier>
+			<authorization-information/>
+			<security-information-qualifier>00</security-information-qualifier>
+			<security-information/>
+			<interchange-sender-id-qualifier>ZZ</interchange-sender-id-qualifier>
+			<interchange-sender-id>5012901000008</interchange-sender-id>
+			<interchange-receiver-id-qualifier>01</interchange-receiver-id-qualifier>
+			<interchange-receiver-id>5013546020222</interchange-receiver-id>
+			<interchange-date>040428</interchange-date>
+			<interchange-time>1414</interchange-time>
+			<interchange-control-standards>U</interchange-control-standards>
+			<interchange-control-version>00400</interchange-control-version>
+			<interchange-control-number>00000000000035</interchange-control-number>
+			<acknowledgement-requested>0</acknowledgement-requested>
+			<usage-indicator>T</usage-indicator>
+		</interchange-control-header>
+		<functional-group-header>
+			<functional-identifier-code>IN</functional-identifier-code>
+			<sender-id>5012901000008</sender-id>
+			<receiver-id>5013546020222</receiver-id>
+			<date>040428</date>
+			<time>1414</time>
+			<group-control-number/>
+			<responsible-agency-code>X</responsible-agency-code>
+			<edi-version>004010</edi-version>
+		</functional-group-header>
+	</envelope-header>
+	<message-body>
+		<transaction>
+			<transaction-set-header>
+				<transaction-set-id>810</transaction-set-id>
+				<transaction-set-control-nbr/>
+			</transaction-set-header>
+			<begin-invoice>
+				<invoice-date>040324</invoice-date>
+				<invoice-number>002951</invoice-number>
+				<purchase-order-date/>
+				<purchase-order-number>531443</purchase-order-number>
+				<release-number/>
+				<change-order-sequence-number/>
+				<transaction-type>INVOIC</transaction-type>
+			</begin-invoice>
+			<currency>
+				<entity-identifier-code/>
+				<currency-code>�</currency-code>
+				<exchange-rate>     1.000000</exchange-rate>
+			</currency>
+			<reference-numbers>
+				<reference-number-qualifier>PO</reference-number-qualifier>
+				<reference-number>531443</reference-number>
+			</reference-numbers>
+			<reference-numbers>
+				<reference-number-qualifier>AAU</reference-number-qualifier>
+				<reference-number>004218</reference-number>
+			</reference-numbers>
+			<reference-numbers>
+				<reference-number-qualifier>VA</reference-number-qualifier>
+				<reference-number>4927144</reference-number>
+			</reference-numbers>
+			<header-entity-loop>
+				<entity-identifier-code>ST</entity-identifier-code>
+				<name>ARGOS DISTRIBUTORS LIMITED</name>
+				<identification-code-qualifier/>
+				<identification-code/>
+				<address-information-line1>ACTON GATE DISTRIBUTION CENTRE</address-information-line1>
+				<address-information-line2/>
+				<city-name>ACTON GATE</city-name>
+				<state-or-province-code/>
+				<postal-code>ST18 9AR</postal-code>
+			</header-entity-loop>
+			<header-entity-loop>
+				<entity-identifier-code>SU</entity-identifier-code>
+				<name>QUALITY FURNITURE COMPANY LTD</name>
+				<identification-code-qualifier/>
+				<identification-code>034681</identification-code>
+				<address-information-line1>ALMA PARK INDUSTRIAL ESTATE</address-information-line1>
+				<address-information-line2/>
+				<city-name>GRANTHAM</city-name>
+				<state-or-province-code>LINCOLNSHIRE</state-or-province-code>
+				<postal-code>  NG31 9SE</postal-code>
+			</header-entity-loop>
+			<header-entity-loop>
+				<entity-identifier-code>BY</entity-identifier-code>
+				<name>ARGOS DISTRIBUTORS LIMITED</name>
+				<identification-code-qualifier/>
+				<identification-code/>
+				<address-information-line1>489-499 AVEBURY BOULEVARD</address-information-line1>
+				<address-information-line2>SAXON GATE WEST</address-information-line2>
+				<city-name>CENTRAL MILTON KEYNES</city-name>
+				<state-or-province-code/>
+				<postal-code>MK9 2NW</postal-code>
+			</header-entity-loop>
+			<date-time-reference>
+				<date-qualifier>068</date-qualifier>
+				<date>040318</date>
+			</date-time-reference>
+			<date-time-reference>
+				<date-qualifier>131</date-qualifier>
+				<date>040324</date>
+			</date-time-reference>
+			<baseline-item-data>
+				<assigned-identification>   1</assigned-identification>
+				<quantity-invoiced>       1.000</quantity-invoiced>
+				<unit-of-measurement-code>EA</unit-of-measurement-code>
+				<unit-price>       139.00000</unit-price>
+				<basis-of-unit-price-code>PE</basis-of-unit-price-code>
+				<product-id qualifier="IN" id="06369439"/>
+				<product-id qualifier="VN" id="104938"/>
+				<product-description product-characteristic-code="" item-description-type="F" description="FELIX 176 STD BK SOFA (G)"/>
+			</baseline-item-data>
+			<total-monetary-value-summary>
+				<total-invoice-amount>         162.11</total-invoice-amount>
+				<amount-subject-to-terms-discount>           0.00</amount-subject-to-terms-discount>
+				<discounted-amount-due>         139.00</discounted-amount-due>
+				<terms-discount-amount>           8.11</terms-discount-amount>
+				<total-sales-tax>          23.11</total-sales-tax>
+			</total-monetary-value-summary>
+			<tax-information>
+				<tax-type-code>S</tax-type-code>
+				<percent>17.50</percent>
+				<monetary-amount>          23.11</monetary-amount>
+			</tax-information>
+			<invoice-shipment-summary>
+				<number-of-units-shipped>       1.000</number-of-units-shipped>
+				<unit-of-measurement-code/>
+				<weight>       42.000000</weight>
+				<volume>        1.470000</volume>
+			</invoice-shipment-summary>
+			<transaction-set-trailer>
+				<number-of-included-segments/>
+				<transaction-set-control-nbr/>
+			</transaction-set-trailer>
+		</transaction>
+	</message-body>
+	<envelope-footer>
+		<functional-group-trailer>
+			<number-of-transactions-sets/>
+			<group-control-number/>
+		</functional-group-trailer>
+		<interchange-control-trailer>
+			<number-of-groups/>
+			<interchange-control-number/>
+		</interchange-control-trailer>
+	</envelope-footer>
+</message-document>

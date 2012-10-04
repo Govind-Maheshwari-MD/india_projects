@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message-document>
+<envelope-header>
+<interchange-control-header>
+<authorization-information-qualifier>00</authorization-information-qualifier>
+<authorization-information>          </authorization-information>
+<security-information-qualifier>00</security-information-qualifier>
+<security-information>          </security-information>
+<interchange-sender-id-qualifier>01</interchange-sender-id-qualifier>
+<interchange-sender-id>003219615</interchange-sender-id>
+<interchange-receiver-id-qualifier>12</interchange-receiver-id-qualifier>
+<interchange-receiver-id>5024239579</interchange-receiver-id>
+<interchange-date>040312</interchange-date>
+<interchange-time>1444</interchange-time>
+<interchange-control-standards>U</interchange-control-standards>
+<interchange-control-version>00400</interchange-control-version>
+<interchange-control-number>000122446</interchange-control-number>
+<acknowledgement-requested>0</acknowledgement-requested>
+<usage-indicator description="(T)est|(P)roduction">P</usage-indicator>
+<subelement-separator>></subelement-separator>
+</interchange-control-header>
+<functional-group-header>
+<functional-identifier-code>SH</functional-identifier-code>
+<sender-id>003219615</sender-id>
+<receiver-id>5024239579</receiver-id>
+<date>20040312</date>
+<time>1444</time>
+<group-control-number>131575</group-control-number>
+<responsible-agency-code>X</responsible-agency-code>
+<edi-version>004010</edi-version>
+</functional-group-header>
+</envelope-header>
+<message-body>
+<transaction>
+<ST>
+<ST01>856</ST01>
+<ST02>132575</ST02>
+</ST>
+<BSN>
+<BSN01>00</BSN01>
+<BSN02>402793607I</BSN02>
+<BSN03>20040312</BSN03>
+<BSN04>13503100</BSN04>
+<BSN05>0002</BSN05>
+</BSN>
+<shipment-level-data>
+<HL>
+<HL01>1</HL01>
+<HL02 />
+<HL03>S</HL03>
+</HL>
+<!--<PO4>
+<PO401 />
+<PO402 />
+<PO406 />
+<PO407 />
+<PO408>2260</PO408>
+<PO409>CF</PO409>
+</PO4>-->
+<TD1>
+<TD102>6</TD102>
+<TD106>G</TD106>
+<TD107>1215</TD107>
+<TD108>LB</TD108>
+</TD1>
+<TD5>
+<TD501 />
+<TD502>2</TD502>
+<TD503>ETDS</TD503>
+<TD505>EXECTIVE DELIVERY SERVICE</TD505>
+</TD5>
+<TD3>
+<TD301>TL</TD301>
+<TD302>ETDS</TD302>
+<TD303>5302</TD303>
+</TD3>
+<REF>
+<REF01>BM</REF01>
+<REF02>402793607I</REF02>
+</REF>
+<REF>
+<REF01>CN</REF01>
+<REF02>ETDS</REF02>
+</REF>
+<DTM>
+<DTM01>011</DTM01>
+<DTM02>20040312</DTM02>
+</DTM>
+<DTM>
+<DTM01>067</DTM01>
+<DTM02>20040311</DTM02>
+</DTM>
+<header-entity-loop>
+<N1>
+<N101>ST</N101>
+<N102>VIRGINIA BEACH EDS WHSE</N102>
+<N103>92</N103>
+<N104>VED</N104>
+</N1>
+<N3>
+<N301>416 ALBERTSON ROAD</N301>
+<N302 />
+</N3>
+<N4>
+<N401>HIGH POINT</N401>
+<N402>NC</N402>
+<N403>27360</N403>
+</N4>
+</header-entity-loop>
+<header-entity-loop>
+<N1>
+<N101>SF</N101>
+<N102>THOMASVILLE FURNITURE</N102>
+<N103 />
+<N104 />
+</N1>
+<N4>
+<N401>THOMASVILLE</N401>
+<N402>NC</N402>
+<N403 />
+</N4>
+</header-entity-loop>
+<order-level-data>
+<HL>
+<HL01>2</HL01>
+<HL02>1</HL02>
+<HL03>O</HL03>
+</HL>
+<PRF>
+<PRF01>K25686</PRF01>
+<PRF04>20040105</PRF04>
+</PRF>
+<TD1>
+<TD102>4</TD102>
+<TD106 />
+<TD107>805</TD107>
+<TD108>LB</TD108>
+</TD1>
+<REF>
+<REF01>6B</REF01>
+<REF02>402793607I</REF02>
+</REF>
+<REF>
+<REF01>CO</REF01>
+<REF02>ETDS</REF02>
+</REF>
+<header-entity-loop>
+<N1>
+<N101>BY</N101>
+<N102 />
+<N103>92</N103>
+<N104>VED</N104>
+</N1>
+</header-entity-loop>
+<item-level-data>
+<HL>
+<HL01>3</HL01>
+<HL02>2</HL02>
+<HL03>I</HL03>
+</HL>
+<LIN>
+<LIN01>00000000005</LIN01>
+<product-id qualifier="SN" id="PB0YH125HWZ" />
+<product-id qualifier="VC" id="40441-831-01" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</LIN>
+<SN1>
+<SN102>1</SN102>
+<SN103>EA</SN103>
+<SN105 />
+<SN106 />
+<SN108 />
+</SN1>
+<PO4>
+<PO401>1</PO401>
+<PO402>1</PO402>
+<PO406>205</PO406>
+<PO407>LB</PO407>
+<PO408>359</PO408>
+<PO409>CF</PO409>
+</PO4>
+</item-level-data>
+<item-level-data>
+<HL>
+<HL01>5</HL01>
+<HL02>2</HL02>
+<HL03>I</HL03>
+</HL>
+<LIN>
+<LIN01>00000000006</LIN01>
+<product-id qualifier="SN" id="PB0YH125HY9" />
+<product-id qualifier="VC" id="40441-832-01" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</LIN>
+<SN1>
+<SN102>1</SN102>
+<SN103>EA</SN103>
+<SN105 />
+<SN106 />
+<SN108 />
+</SN1>
+<PO4>
+<PO401>1</PO401>
+<PO402>1</PO402>
+<PO406>205</PO406>
+<PO407>LB</PO407>
+<PO408>359</PO408>
+<PO409>CF</PO409>
+</PO4>
+</item-level-data>
+<item-level-data>
+<HL>
+<HL01>7</HL01>
+<HL02>2</HL02>
+<HL03>I</HL03>
+</HL>
+<LIN>
+<LIN01>00000000007</LIN01>
+<product-id qualifier="SN" id="O0401030055" />
+<product-id qualifier="VC" id="40441-856-01" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</LIN>
+<SN1>
+<SN102>1</SN102>
+<SN103>EA</SN103>
+<SN105 />
+<SN106 />
+<SN108 />
+</SN1>
+<PO4>
+<PO401>1</PO401>
+<PO402>1</PO402>
+<PO406>181</PO406>
+<PO407>LB</PO407>
+<PO408>282</PO408>
+<PO409>CF</PO409>
+</PO4>
+</item-level-data>
+<item-level-data>
+<HL>
+<HL01>9</HL01>
+<HL02>2</HL02>
+<HL03>I</HL03>
+</HL>
+<LIN>
+<LIN01>00000000008</LIN01>
+<product-id qualifier="SN" id="O0401030056" />
+<product-id qualifier="VC" id="40441-856-02" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</LIN>
+<SN1>
+<SN102>1</SN102>
+<SN103>EA</SN103>
+<SN105 />
+<SN106 />
+<SN108 />
+</SN1>
+<PO4>
+<PO401>1</PO401>
+<PO402>1</PO402>
+<PO406>214</PO406>
+<PO407>LB</PO407>
+<PO408>542</PO408>
+<PO409>CF</PO409>
+</PO4>
+</item-level-data>
+</order-level-data>
+<order-level-data>
+<HL>
+<HL01>11</HL01>
+<HL02>1</HL02>
+<HL03>O</HL03>
+</HL>
+<PRF>
+<PRF01>K26298</PRF01>
+<PRF04>20040120</PRF04>
+</PRF>
+<TD1>
+<TD102>2</TD102>
+<TD106 />
+<TD107>410</TD107>
+<TD108>LB</TD108>
+</TD1>
+<header-entity-loop>
+<N1>
+<N101>BY</N101>
+<N102 />
+<N103>92</N103>
+<N104>VED</N104>
+</N1>
+</header-entity-loop>
+<item-level-data>
+<HL>
+<HL01>12</HL01>
+<HL02>11</HL02>
+<HL03>I</HL03>
+</HL>
+<LIN>
+<LIN01>00000000006</LIN01>
+<product-id qualifier="SN" id="PB0YH125HWZ" />
+<product-id qualifier="VC" id="40441-831-01" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</LIN>
+<SN1>
+<SN102>1</SN102>
+<SN103>EA</SN103>
+<SN105 />
+<SN106 />
+<SN108 />
+</SN1>
+<PO4>
+<PO401>1</PO401>
+<PO402>1</PO402>
+<PO406>205</PO406>
+<PO407>LB</PO407>
+<PO408>359</PO408>
+<PO409>CF</PO409>
+</PO4>
+</item-level-data>
+<item-level-data>
+<HL>
+<HL01>14</HL01>
+<HL02>11</HL02>
+<HL03>I</HL03>
+</HL>
+<LIN>
+<LIN01>00000000007</LIN01>
+<product-id qualifier="SN" id="PB0YH125HY9" />
+<product-id qualifier="VC" id="40441-832-01" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+<product-id qualifier="" id="" />
+</LIN>
+<SN1>
+<SN102>1</SN102>
+<SN103>EA</SN103>
+<SN105 />
+<SN106 />
+<SN108 />
+</SN1>
+<PO4>
+<PO401>1</PO401>
+<PO402>1</PO402>
+<PO406>205</PO406>
+<PO407>LB</PO407>
+<PO408>359</PO408>
+<PO409>CF</PO409>
+</PO4>
+</item-level-data>
+</order-level-data>
+</shipment-level-data>
+<CTT>
+<CTT01>9</CTT01>
+</CTT>
+<SE>
+<SE01>51</SE01>
+<SE02>132575</SE02>
+</SE>
+</transaction>
+</message-body>
+<envelope-footer>
+<functional-group-trailer>
+<number-of-transactions-sets>1</number-of-transactions-sets>
+<group-control-number>131575</group-control-number>
+</functional-group-trailer>
+<interchange-control-trailer>
+<number-of-groups>1</number-of-groups>
+<interchange-control-number>000122446</interchange-control-number>
+</interchange-control-trailer>
+</envelope-footer>
+</message-document>
+

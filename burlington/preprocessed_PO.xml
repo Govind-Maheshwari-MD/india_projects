@@ -1,0 +1,49 @@
+<Document>
+<Header>
+<line>ISA*00*          *00*          *ZZ*TESTBURLING    *12*2127602500     *040223*1000*U*00401*000001001*0*T*></line>
+<line>GS*PO*TESTBURLING*2127602500*20040223*1000*1001*X*004010</line>
+</Header>
+<Message>
+<Component>
+<line>ST*850*10010001</line>
+<line>BEG*00*SA*100000100T**20040223</line>
+<line>REF*DP*7</line>
+<line>PER*BD*LINDA SMALL</line>
+<line>FOB*CC*DE*All Sites</line>
+<line>SAC*A*C300***23240*3*10.00*****02***1 sites</line>
+<line>ITD*12*15*****30*******C</line>
+<line>DTM*037*20100704</line>
+<line>DTM*001*20101204</line>
+<line>PID*F****Special instruction from the buyer to the vendor about this order</line>
+<line>PID*F****Allowance Code I570: 205</line>
+<line>CTB*AA*2 - BY STYLE/PREPACK</line>
+<line>N1*BT*Totally 4 Kids*94*05</line>
+<line>PO1*1*2*EA*7*WE*IN*79029410*IT*R940D04*BO*PINK/PURPLE*IZ*10</line>
+<line>SDQ*EA*92*001*1*205*1</line>
+<line>PO1*2*4*EA*6*WE*IN*78992234*IT*R943AD14*BO*BLU SWTDREAM*IZ*XS</line>
+<line>SAC*N**VI*HA***********RANDY HANGER BLACK 1750</line>
+<line>SDQ*EA*92*001*2*205*2</line>
+<line>PO1*3*6*EA*7.50*WE*IN*79029504*IT*R943AT60*BO*PINK KITTY*IZ*XS</line>
+<line>SAC*N**VI*HA</line>
+<line>SDQ*EA*92*001*3*205*3</line>
+<line>PO1*4*16*AS*51*WE*IN*PO100LN4</line>
+<line>SDQ*AS*92*001*8*205*8</line>
+<line>SLN*1**I*4*EA*6.75*WE**IN*75279219*IT*DDN3144*BO*PRINT*IZ*4T</line>
+<line>SAC*N**VI*HA***********RANDY HANGER BLACK 1750</line>
+<line>SLN*2**I*4*EA*6*WE**IN*79049885*IT*R940AD14*BO*BLU SWTDREAM*IZ*XS</line>
+<line>SAC*N**VI*HA***********RANDY HANGER BLACK 1750</line>
+<line>PO1*5*20*AS*71.25*WE*IN*PO100LN5</line>
+<line>SDQ*AS*92*001*10*205*10</line>
+<line>SLN*1**I*5*EA*7.25*WE**IN*78992014*IT*R943AH62*BO*YELLOW ANGEL*IZ*XS</line>
+<line>SAC*N**VI*HA***********RANDY HANGER BLACK 1750</line>
+<line>SLN*2**I*5*EA*7*WE**IN*78992108*IT*R943AD60*BO*BLU SWTDREAM*IZ*XS</line>
+<line>SAC*N**VI*HA***********RANDY HANGER BLACK 1750</line>
+<line>CTT*5</line>
+<line>SE*35*10010001</line>
+</Component>
+</Message>
+<Footer>
+<line>GE*1*1001</line>
+<line>IEA*1*000001001</line>
+</Footer>
+</Document>
